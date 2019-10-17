@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1b3aa37-d72f-4c49-8740-0db3c184871f" name="Default Changelist" comment="" />
+    <list default="true" id="5b0527e0-c920-41e0-bbd5-24da84d32740" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  <component name="ProjectId" id="1SJvHVqsk4M9jIZm8s8ny4TQ5i3" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/a/1017.iml" />
   </component>
-  <component name="ProjectId" id="1SJwlmdfeQCGOvxCGcJKFWfuhAz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,23 +56,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a1b3aa37-d72f-4c49-8740-0db3c184871f" name="Default Changelist" comment="" />
-      <created>1571295159363</created>
+      <changelist id="5b0527e0-c920-41e0-bbd5-24da84d32740" name="Default Changelist" comment="" />
+      <created>1571294425292</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571295159363</updated>
+      <updated>1571294425292</updated>
     </task>
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
